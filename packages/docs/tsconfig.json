@@ -1,0 +1,4 @@
+{
+	"extends": "@modern-ui/ts-config/react.json",
+	"include": ["src"]
+}
