@@ -18,6 +18,9 @@ jobs:
       node-version: 16
 
    - run: npm ci
+     env:
+      TURBO_TOKEN: AJEwsPcMa0ImxzAGfEUhEZX9
+      TURBO_TEAM: fillipeaugusto
 
    - run: npm run build
 
