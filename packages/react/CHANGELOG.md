@@ -1,5 +1,11 @@
 # @modernui/react
 
+## 4.0.0
+
+### Major Changes
+
+- export styled
+
 ## 3.0.0
 
 ### Major Changes
