@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react';
-import { Box, BoxProps, Text } from '@modern-ui/react';
+import { Box, BoxProps, Text } from '@modernui/react';
 
 export default {
 	title: 'Surfaces/Box',

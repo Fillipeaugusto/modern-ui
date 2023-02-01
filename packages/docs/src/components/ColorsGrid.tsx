@@ -1,4 +1,4 @@
-import { colors } from '@modern-ui/tokens';
+import { colors } from '@modernui/tokens';
 import { getContrast } from 'polished';
 
 export function ColorsGrid() {

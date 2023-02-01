@@ -1,5 +1,5 @@
 {
-	"name": "@modern-ui/docs",
+	"name": "@modernui/docs",
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
@@ -17,9 +17,9 @@
 		"vite": "^4.0.4"
 	},
 	"dependencies": {
-		"@modern-ui/react": "*",
-		"@modern-ui/tokens": "*",
-		"@modern-ui/ts-config": "*",
+		"@modernui/react": "*",
+		"@modernui/tokens": "*",
+		"@modernui/ts-config": "*",
 		"@storybook/addon-a11y": "^6.5.16",
 		"@storybook/storybook-deployer": "^2.8.16",
 		"phosphor-react": "^1.4.1",

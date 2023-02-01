@@ -6,7 +6,7 @@ import {
 	lineHeights,
 	radii,
 	space,
-} from '@modern-ui/tokens';
+} from '@modernui/tokens';
 import { createStitches, defaultThemeMap } from '@stitches/react';
 
 export const {

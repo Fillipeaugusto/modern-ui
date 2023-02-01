@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Avatar, AvatarProps } from '@modern-ui/react';
+import { Avatar, AvatarProps } from '@modernui/react';
 
 export default {
 	title: 'Data display/Avatar',
