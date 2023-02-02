@@ -1,0 +1,2 @@
+import{A as t}from"./index-2d7093f1.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Fillipeaugusto.png",alt:"Fillipe Augusto"},argTypes:{src:{control:{type:"text"}}}},l={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{l as Primary,c as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-0e17b9be.js.map
