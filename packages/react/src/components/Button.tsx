@@ -69,6 +69,21 @@ export const Button = styled('button', {
 					color: '$gray600',
 				},
 			},
+			outlined: {
+				color: '$gray100',
+				border: '2px solid $green500',
+				background: 'rgba(0, 179, 126, 0.24)',
+				boxShadow: ' 0 4px 30px rgba(0, 0, 0, 0.1)',
+				backdropFilter: 'blur(6.8px)',
+				'-webkit-backdrop-filter': 'blur(6.8px)',
+				'&:not(:disabled):hover': {
+					color: '$white',
+				},
+
+				'&:disabled': {
+					color: '$gray600',
+				},
+			},
 		},
 
 		size: {

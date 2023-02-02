@@ -1,5 +1,11 @@
 # @modernui/react
 
+## 5.0.0
+
+### Major Changes
+
+- add dialog and new button type
+
 ## 4.0.0
 
 ### Major Changes

@@ -7,4 +7,5 @@ export * from './components/TextImput';
 export * from './components/TextArea';
 export * from './components/Checkbox';
 export * from './components/MultiStep';
+export * from './components/Dialog';
 export * from './styles';

@@ -11,7 +11,7 @@ export default {
 	},
 	argTypes: {
 		variant: {
-			options: ['primary', 'secondary', 'tertiary'],
+			options: ['primary', 'secondary', 'tertiary', 'outlined'],
 			control: 'inline-radio',
 		},
 		size: {
@@ -41,6 +41,12 @@ export const Secondary: StoryObj<ButtonProps> = {
 export const Tertiary: StoryObj<ButtonProps> = {
 	args: {
 		variant: 'tertiary',
+		children: 'Cancel',
+	},
+};
+export const outlined: StoryObj<ButtonProps> = {
+	args: {
+		variant: 'outlined',
 		children: 'Cancel',
 	},
 };
